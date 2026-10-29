@@ -1,0 +1,13 @@
+NEXUS VA — SAMPLE SERVICE OUTPUT
+
+Client onboarding guide
+Prepared for prototype testing
+
+1. Welcome the client and confirm the requested service.
+2. Agree on scope, budget, difficulty, and the delivery date.
+3. Share project documents in the workspace conversation.
+4. Confirm the simulated payment in Billing.
+5. Deliver the finished output and invite the client to review it.
+6. Close the request with a star rating and a short note.
+
+This sample file is provided for testing upload, delivery, download, and review.
